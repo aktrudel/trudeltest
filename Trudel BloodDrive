@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- ......  -->
+    <!-- PUT YOUR TITLE IN PLACE OF TITLE BELOW: -->
+    <!-- ......  -->
+
+    <title>Trudel Article</title>
+
+    <!-- ... -->
+    <!-- ... -->
+    <!-- ... -->
+
+    <link
+      rel="canonical"
+      href="https://getbootstrap.com/docs/5.0/examples/starter-template/"
+    />
+
+    <!-- Bootstrap core CSS -->
+    <link
+      href="http://pachecod.github.io/bootstrap/assets/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <div class="container-fluid">
+
+        <!-- ... -->
+        <!-- PUT YOUR GITHUB USER NAME IN THE URL BELOW -->
+        <!-- ... -->
+
+        <a class="navbar-brand" href="https://aktrudel.github.io"
+          >HOME</a
+        >
+
+        <!-- ... -->
+        <!-- ... -->
+        <!-- ... -->
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarsExampleDefault"
+          aria-controls="navbarsExampleDefault"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <!-- ... -->
+            <!-- REPLACE LINKS AND LINK TITLE BELOW WITH YOUR OWN, OR REMOVE THEM ENTIRELY -->
+            <!-- ... -->
+
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="http://link"
+                >MYSTORY</a
+              >
+            </li>
+
+            <!-- ... -->
+            <!-- ... -->
+            <!-- ... -->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="starter-template text-left py-5 px-3">
+
+        <!-- ... -->
+        <!-- PAGE CONTENT STARTS HERE -->
+        <!-- ... -->
+
+        <p><br /></p>
+
+        <a name="top"></a>
+
+        <h1>
+          Wilmington Friends Hosts Annual Blood Drive
+        </h1>
+<img src="https://wfswhittier.net/wp-content/uploads/2017/03/Bloodbank-2009.jpg"
+      width="400"
+          height="300" ></img>
+       <p>
+          Addie Trudel, Features Writer
+   
+       <br>
+          Mar 7, 2017
+      <br>
+
+        <p>
+          Every spring, a member of the senior team and two seniors work with the Blood Bank of Delmarva to organize a blood drive for the school community, a long standing tradition within the high school. This year, Sadie Proud ’17 and Owen Sheppard ’17 have worked very hard to promote the cause to the student body and faculty members by creating Facebook groups, posters, and giving informative collections. Sarah Stock-Patterson has been the senior faculty advisor this year and has worked very hard with Proud and Sheppard to plan and facilitate this event.
+        </p>
+
+        <p>
+          Stock-Patterson is a lifelong blood donor and has been donating blood since she was in high school. “Donating blood is a social responsibility,” Stock-Patterson stated, “It is important to start at a young age because it sets students up to be lifelong donors”. Stock-Patterson believes that donating blood is something that everyone should do because it greatly benefits the community. Every year, the senior advisor in charge of helping plan the blood drive switches between Stock-Patterson and Ellen Johnson. According to Johnson, the blood drive has been an annual tradition dating back to before she started teaching at the school which was nineteen years ago.
+        </p>
+
+        <p>
+          Every year, the donated blood that the school collects goes to the Blood Bank of Delmarva and is then delivered to local hospitals. The Blood Bank of Delmarva is one organization apart of America’s Blood Centers that supplies blood to eighteen different hospitals in the Delmarva area. Each year, roughly fifty members of the community sign up to participate in donating blood, but usually only thirty people can actually donate. This year, the numbers went up and nearly seventy people, both students and faculty, have signed up to donate! “I think it’s an amazing cause that should continue on into the future,” stated Rachel Ramirez ’17.
+        </p>
+
+        <p>
+          The numbers of community participation has gone up by forty percent in the past year, which is exciting for the team who puts the blood drive together. It is an extremely beneficial increase because Blood Bank of Delmarva needs 350 donors a day to support over 20,000 cases each year. “The Blood Drive is very important. Far more important than many realize. We are doing more than just donating blood. We are saving lives,” expressed Sheppard.
+        </p>
+
+        <p>
+          This year, Proud, Sheppard, and Stock-Patterson dedicated a tremendous amount of time and effort into planning the blood drive. The number of participation has increased this year and will hopefully continue to grow in the oncoming years at Wilmington Friends.  It is a cause that has an enormous amount of student and faculty support while at the same time benefits the local community as well.
+        </p>
+
+        <p>
+          For more information on donating blood, visit: <a href="https://www.delmarvablood.org/">DelmarvaBlood.org</a>
+        </p>
+
+        <!-- ... -->
+        <!-- END PAGE CONTENT -->
+        <!-- ... -->
+        
+      </div>
+    </main>
+    <!-- /.container -->
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
